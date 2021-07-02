@@ -26,6 +26,7 @@
                             <goal>shade</goal>
                         </goals>
                         <configuration>
+                            <finalName>GameOfDice</finalName>
                             <transformers>
                                 <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
                                     <mainClass>com.greatlearning.coding.Driver</mainClass>
