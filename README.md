@@ -1,7 +1,9 @@
-Pre requisites: 
+### **GREAT LEARNING: GAME OF DICE**
+
+**Pre requisites:** 
 Java 8 and Maven needs to be installed to be able to run this application.
 
-Steps to run:
+**Steps to run:**
 
 1. Go to terminal
 2. Go to project root in the terminal
